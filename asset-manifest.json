@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/brent-test-site/static/css/main.4d908870.css",
+    "main.js": "/brent-test-site/static/js/main.8c9fc797.js",
+    "static/media/ProjectImg.png": "/brent-test-site/static/media/ProjectImg.0a02befcfcc29461ca58.png",
+    "static/media/reactjs.png": "/brent-test-site/static/media/reactjs.1b0138278d1ee600385b.png",
+    "static/media/postgre.png": "/brent-test-site/static/media/postgre.ca95341c593435cf0fc8.png",
+    "static/media/logo-img.png": "/brent-test-site/static/media/logo-img.77cf68590af074d3fe7f.png",
+    "static/media/nodejs.png": "/brent-test-site/static/media/nodejs.661aad3f9a1cca49aa12.png",
+    "static/media/html.png": "/brent-test-site/static/media/html.65b96f182ed54e62cd23.png",
+    "static/media/css.png": "/brent-test-site/static/media/css.7b07dc26aa60bd4d4c18.png",
+    "static/media/javascript.png": "/brent-test-site/static/media/javascript.e44e958d64f4200ebdd9.png",
+    "index.html": "/brent-test-site/index.html",
+    "main.4d908870.css.map": "/brent-test-site/static/css/main.4d908870.css.map",
+    "main.8c9fc797.js.map": "/brent-test-site/static/js/main.8c9fc797.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d908870.css",
+    "static/js/main.8c9fc797.js"
+  ]
+}
